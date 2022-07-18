@@ -4,5 +4,12 @@
         <members>TestAccountAdd</members>
         <name>ApexClass</name>
     </types>
+        <members>AccountTriggerHandler</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AccountAddressTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
     <version>55.0</version>
 </Package>
